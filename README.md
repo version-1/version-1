@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jiro. 
 
-I'm a front-end developer.
+I'm a front-end developer with 5+ years experience.
 Thank you for visiting my GitHub profile.
 
 - [Linkedin](https://www.linkedin.com/in/jjoo-1b3766145/)
