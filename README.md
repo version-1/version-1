@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**version-1/version-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jiro. I'm a front-end developer.
+Thank you for visiting my GitHub profile.
 
-Here are some ideas to get you started:
+### Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Portfolio
+
+This portfolio is built with React.js and Gatsby.js
+
+- [link](https://portfolio.ver-1-0.net/)
+
+
+#### PaPyrus - Mark down sticky-note-like memo application.
+
+This is my private project build with Electron, React.js, Typescript, Next.js , GraphQL and Golang.
+
+- [link](https://papyrus-app.org/)
+
+
+#### Blog
+
+- [English](https://ver-1-0.net/en)
+- [日本語](https://ver-1-0.net/)
+
+
+### OSS
+
+##### cnstnts - Easily define "Plain Object-base" enum helper.
+
+https://github.com/version-1/cnstnts
+
+### Accomplishment
+
+
+
+### Contact
+
+- [Linkedin](https://www.linkedin.com/in/jjoo-1b3766145/)
+- [Twitter](https://twitter.com/version1_2017)
+
