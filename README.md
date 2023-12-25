@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Jiro. 
 
-I'm a fullstack developer with 5+ years experience.
+I'm a full-stack developer with 5+ years of experience.
 Thank you for visiting my GitHub profile.
 
 - [Linkedin](https://www.linkedin.com/in/jjoo-1b3766145/)
