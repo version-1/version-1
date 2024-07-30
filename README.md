@@ -17,11 +17,15 @@ Thank you for visiting my profile.
 
 ### :trophy: Accomplishments
 
-#### 1. Published material about React Hooks API from [Techpit](https://www.techpit.jp/)
+#### 1. Published some online learning materials on [Techpit](https://www.techpit.jp/)
 
-Published an online material([link](https://www.techpit.jp/courses/127))  about React Hooks API from the company located in Tokyo.
+Published online materials 
+- [Hooks API](https://www.techpit.jp/courses/127))
+- [React State Management](https://www.techpit.jp/courses/276)
+  about React Hooks API from the company located in Tokyo.
 That is to learn React Hooks API while implementing Snake Game([demo](https://version-1.github.io/hooks-snake-game/)).
 
 #### 2. Ranked as the top 1% teacher on [MENTA](https://menta.work/) which is a skill-share platform.
- - Have around 20-30 online students.
- - Provide courses to learn front-end development for programming beginners
+- Provide courses to learn front-end development for programming beginners
+- Have provided consultations for over 200 cases so far.
+ 
