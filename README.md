@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Jiro. 
 
-I'm a full-stack developer with 5+ years of experience.
-Thank you for visiting my GitHub profile.
+I am a full-stack developer with over 8 years of experience, passionate about creating better UX and improving quality of life.
+Thank you for visiting my profile.
 
 - [Linkedin](https://www.linkedin.com/in/jjoo-1b3766145/)
 - [Twitter](https://twitter.com/version1_2017)
@@ -12,6 +12,7 @@ Thank you for visiting my GitHub profile.
 | ---- | ---- | --- | ---- |
 | Portfolio | [link](https://portfolio.ver-1-0.net/) | [repo](https://github.com/version-1/portfolio) | React.js, Gatsby.js |
 | Papyrus \- Sticky-Note-Like memo application | [link](https://papyrus-app.org/) | [repo](https://github.com/version-1/portfolio) | React.js, TypeScript, Electron, Next.js, Go |
+| EggCutter \- Online Audio editor | [link](https://egg-cutter.net/) | - | React.js, TypeScript, Gatsby.js |
 | Blog | [English](https://ver-1-0.net/en) \| [日本語](https://ver-1-0.net/) | [repo](https://github.com/version-1/blog) | React.js, Gatsby.js |
 
 ### :trophy: Accomplishments
