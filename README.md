@@ -20,7 +20,7 @@ Thank you for visiting my profile.
 #### 1. Published some online learning materials on [Techpit](https://www.techpit.jp/)
 
 Published online materials 
-- [Hooks API](https://www.techpit.jp/courses/127))
+- [Hooks API](https://www.techpit.jp/courses/127)
 - [React State Management](https://www.techpit.jp/courses/276)
   about React Hooks API from the company located in Tokyo.
 That is to learn React Hooks API while implementing Snake Game([demo](https://version-1.github.io/hooks-snake-game/)).
