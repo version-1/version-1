@@ -11,7 +11,6 @@ Thank you for visiting my profile.
 | Website | Link | Repository | Tech Stack|
 | ---- | ---- | --- | ---- |
 | Portfolio | [link](https://portfolio.ver-1-0.net/) | [repo](https://github.com/version-1/portfolio) | React.js, Gatsby.js |
-| Papyrus \- Sticky-Note-Like memo application | [link](https://papyrus-app.org/) | [repo](https://github.com/version-1/portfolio) | React.js, TypeScript, Electron, Next.js, Go |
 | EggCutter \- Online Audio editor | [link](https://egg-cutter.net/) | - | React.js, TypeScript, Gatsby.js |
 | Blog | [English](https://ver-1-0.net/en) \| [日本語](https://ver-1-0.net/) | [repo](https://github.com/version-1/blog) | React.js, Gatsby.js |
 
