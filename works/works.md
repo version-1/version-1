@@ -52,3 +52,9 @@ https://github.com/version-1/papyrus-docs
 https://ver-1-0.net
 
 
+#### Portfolio 
+
+A portfolio page inspired by a popular chat application. While it is no longer actively maintained, it reflects my past work and design approach.
+
+https://portfolio.ver-1-0.net/
+
