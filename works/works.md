@@ -14,7 +14,7 @@ Published online materials
 That is to learn React Hooks API while implementing Snake Game([demo](https://version-1.github.io/hooks-snake-game/)).
 
 #### Ranked as the top 1% teacher on [MENTA](https://menta.work/) which is a skill-share platform.
-- Provide courses to learn front-end development for programming beginners
+- Provide courses to learn front-end development for programming beginners ([materials](https://github.com/version1-workspace/ws-01-0100-fe-materials))
 - Have provided consultations for over 200 cases so far.
  
 
@@ -29,3 +29,17 @@ I have great respect for people who maintain open-source software, and I believe
 #### Very very small contribution to vuex ja document.
 
 - [#1825])https://github.com/vuejs/vuex/pull/1825)
+
+
+### Individual Developments
+
+
+#### Egg Cutter - Online Audio Editor
+
+https://egg-cutter.net/
+
+
+
+#### Papyrus - Desktop Sticky App
+
+https://github.com/version-1/papyrus-docs
