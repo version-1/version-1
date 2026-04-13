@@ -1,7 +1,7 @@
 
 
 
-### Mentoring
+## Mentoring
 
 With over 10 years of experience as a software engineer, I place strong importance on mentoring the next generation of engineers and fostering a culture of knowledge and experience sharing.
 
@@ -17,8 +17,9 @@ That is to learn React Hooks API while implementing Snake Game([demo](https://ve
 - Provide courses to learn front-end development for programming beginners ([materials](https://github.com/version1-workspace/ws-01-0100-fe-materials))
 - Have provided consultations for over 200 cases so far.
  
+---
 
-### OSS Contributions
+## OSS Contributions
 
 I have great respect for people who maintain open-source software, and I believe in making constructive contributions whenever I find opportunities to improve the libraries and tools I use.
 
@@ -30,8 +31,9 @@ I have great respect for people who maintain open-source software, and I believe
 
 - [#1825])https://github.com/vuejs/vuex/pull/1825)
 
+---
 
-### Individual Developments
+## Individual Developments
 
 
 #### Egg Cutter - Online Audio Editor
