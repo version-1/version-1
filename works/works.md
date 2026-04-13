@@ -40,16 +40,16 @@ I have great respect for people who maintain open-source software, and I believe
 
 https://egg-cutter.net/
 
+#### Homemade Blog 
+
+https://ver-1-0.net
 
 
 #### Papyrus - Desktop Sticky App
 
+A desktop application I previously developed, inspired by a sticky-note style interface. While it is no longer actively maintained, it remains one of the projects that reflects my approach to product design and development.
+
 https://github.com/version-1/papyrus-docs
-
-
-#### Homemade Blog 
-
-https://ver-1-0.net
 
 
 #### Portfolio 
