@@ -23,7 +23,7 @@ That is to learn React Hooks API while implementing Snake Game([demo](https://ve
 
 I have great respect for people who maintain open-source software, and I believe in making constructive contributions whenever I find opportunities to improve the libraries and tools I use.
 
-#### Contribution to 1.6k vim color scheme 
+#### Contribution to vim color scheme with 1.6k stars 
 
 - [#94](https://github.com/nyoom-engineering/oxocarbon.nvim/pull/94)
 
