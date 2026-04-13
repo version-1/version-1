@@ -47,7 +47,7 @@ https://egg-cutter.net/
 https://github.com/version-1/papyrus-docs
 
 
-#### Blog 
+#### Homemade Blog 
 
 https://ver-1-0.net
 
