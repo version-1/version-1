@@ -29,7 +29,7 @@ I have great respect for people who maintain open-source software, and I believe
 
 #### Very very small contribution to vuex ja document.
 
-- [#1825])https://github.com/vuejs/vuex/pull/1825)
+- [#1825](https://github.com/vuejs/vuex/pull/1825)
 
 ---
 
