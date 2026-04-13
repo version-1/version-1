@@ -45,3 +45,10 @@ https://egg-cutter.net/
 #### Papyrus - Desktop Sticky App
 
 https://github.com/version-1/papyrus-docs
+
+
+#### Blog 
+
+https://ver-1-0.net
+
+
