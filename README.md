@@ -5,16 +5,12 @@ Thank you for visiting my profile.
 
 - [Linkedin](https://www.linkedin.com/in/jjoo-1b3766145/)
 - [Twitter](https://twitter.com/version1_2017)
+- Blog
+  - [English](https://ver-1-0.net/en)
+  - [Japanese](https://ver-1-0.net/)
+  - [Repo](https://github.com/version-1/blog)
 
-### :clipboard: Resources
-
-| Website | Link | Repository | Tech Stack|
-| ---- | ---- | --- | ---- |
-| Portfolio | [link](https://portfolio.ver-1-0.net/) | [repo](https://github.com/version-1/portfolio) | React.js, Gatsby.js |
-| EggCutter \- Online Audio editor | [link](https://egg-cutter.net/) | - | React.js, TypeScript, Gatsby.js |
-| Blog | [English](https://ver-1-0.net/en) \| [日本語](https://ver-1-0.net/) | [repo](https://github.com/version-1/blog) | React.js, Gatsby.js |
-
-### :trophy: Works
+### 💻 Works
 
 If you are interested in my technical work and activities to date, please take a look here.
 
