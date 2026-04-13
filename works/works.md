@@ -16,6 +16,12 @@ That is to learn React Hooks API while implementing Snake Game([demo](https://ve
 #### Ranked as the top 1% teacher on [MENTA](https://menta.work/) which is a skill-share platform.
 - Provide courses to learn front-end development for programming beginners ([materials](https://github.com/version1-workspace/ws-01-0100-fe-materials))
 - Have provided consultations for over 200 cases so far.
+
+####  Technical Content on YouTube
+
+- Create educational programming videos for learners and engineers
+- Focus on beginner-friendly tutorials and practical coding walkthroughs
+- One video has reached **10,000+ views** [Here](https://www.youtube.com/watch?v=8rXaprIJATM)
  
 ---
 
