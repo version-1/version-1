@@ -10,7 +10,9 @@ With over 10 years of experience as a software engineer, I place strong importan
 Published online materials 
 - [Hooks API](https://www.techpit.jp/courses/127)
 - [React State Management](https://www.techpit.jp/courses/276)
-  about React Hooks API from the company located in Tokyo.
+
+about React Hooks API from the company located in Tokyo.
+
 That is to learn React Hooks API while implementing Snake Game([demo](https://version-1.github.io/hooks-snake-game/)).
 
 #### Ranked as the top 1% teacher on [MENTA](https://menta.work/) which is a skill-share platform.
